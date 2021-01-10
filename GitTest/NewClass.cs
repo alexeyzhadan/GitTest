@@ -10,5 +10,7 @@ namespace GitTest
         { 
         
         }
+        public int Some { get; }
+        
     }
 }
