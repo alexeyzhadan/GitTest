@@ -11,6 +11,6 @@ namespace GitTest
         
         }
         public int Some { get; }
-        
+        public string Some2 { get; }
     }
 }
